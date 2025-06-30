@@ -88,7 +88,7 @@ String password = "your-app-password";
 
 💻 Running the Project
 Clone the Repository
-git clone https://github.com/Praveena23-2003/Event-Ticket-Token-System.git
+git clone https://github.com/Praveena23-2003/Day11_EventTicketSystem.git
 cd Event-Ticket-Token-System
 Set MongoDB Connection
 
